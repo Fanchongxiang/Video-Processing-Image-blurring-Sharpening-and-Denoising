@@ -4,7 +4,7 @@ The goal of our project is to create a website based on Gradio for the users tha
 
 1.audio_convolution_advanced.py  声音降噪处理文件
 	video_convolution.py  视频锐化/模糊处理文件
-	process_video.py 是集成了A和B部分的代码，并为D提供了UI设计的接口
+	process_video.py 是集成了前两部分的代码，并为website设计提供了接口
 
 2.前端调用函数：
 process_video_for_ui(
